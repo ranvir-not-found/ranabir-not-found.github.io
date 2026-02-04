@@ -6,10 +6,11 @@ layout: homepage
 
 I am a high school student at Govt. Hazi Muhammad Mohsin College
 
-## Research Interests
+## Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** transfer learning
+- **Mathematics:** Discrete Mathematics, Statistical Modeling
+- **Machine Learning:** Computer Vision, Mechanistic Interpretability
+- **Philosophy:** Moral Philosophy, Existentialism
 
 ## News
 
