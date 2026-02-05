@@ -13,11 +13,11 @@ canonical: https://ranvir-not-found.github.io/
 # If you don't need one of them, you may delete the corresponding line, or use # to disable temporarily 
 #google_scholar: https://scholar.google.com/
 orcid: "https://orcid.org/0009-0005-9396-2392"
-cv_link: assets/files/curriculum_vitae.df
+#cv_link: assets/files/curriculum_vitae.df
 github_link: https://github.com/
 linkedin: https://www.linkedin.com/
 goodreads: https://www.goodreads.com/user/show/183677055-ranvir
-
+huggingface: "https://huggingface.co/ranvir-not-found"
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/thrown_away_avatar.png
